@@ -31,6 +31,6 @@
     "Sell": "Продать",
     "Attention_The_cost_of_crafting": "Внимание! Стоимость крафта",
     "Craft": "Крафтить",
-    "Number_of_hours_for_egg_maturation": "Number of hours for egg maturation (0 to 24)",
+    "Number_of_hours_for_egg_maturation": "Количество часов на созревание яйца (от 0 до 24)",
     "Hatching_egg": "Вылупить"
 }
