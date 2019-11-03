@@ -10,8 +10,6 @@
     "Cancel": "Отменить",
     "Home": "Главная",
     "Profile": "Профиль",
-    "event": "Акции",
-    "Developers": "Разработчикам",
     "Crossing": "Скрещивание",
     "Shop": "Магазин",
     "Kitty": "Котики",
@@ -44,6 +42,8 @@
     "Operation_is_not_possible": "Операция невозможна!",
     "Cats": "Коты",
     "Eggs": "Яйца",
+    "event": "Акции",
+    "Developers": "Разработчикам",
     "Collect_crypto-kitty_on_the": "Собирай крипто-котиков на",
     "Minter_blockchain": "блокчейне Minter",
     "about_the_project": "о проекте",
@@ -59,11 +59,12 @@
     "Login": "Логин",
     "Forbidden_characters_have_been_entered": "Введены запрещенные символы",
     "Password": "Пароль",
-    "Repeat_password": "Повторите пароль",
+    "Repeat password": "",
     "Enter": "Войти",
     "Sort": "Сортировка",
     "The_cheapest": "Самые дешевые",
     "Most_expensive": "Самые дорогие",
     "The_oldest": "Самые старые",
-    "on_breeds": "По породе"
+    "on_breeds": "По породе",
+    "Repeat_password": "Повторите пароль"
 }
