@@ -66,5 +66,20 @@
     "Most_expensive": "Самые дорогие",
     "The_oldest": "Самые старые",
     "on_breeds": "По породе",
-    "Repeat_password": "Повторите пароль"
+    "Repeat_password": "Повторите пароль",
+    "official_coin_of_the_MinterCat_project": "официальная монета проекта MinterCat",
+    "Coin": "Монета",
+    "Characteristics_of_coin": "Характеристики монеты",
+    "Symbol": "Символ",
+    "Initial_reserve": "Начальный резерв",
+    "Initial_price": "Начальная цена",
+    "Initial_emission": "Начальная эмиссия",
+    "At_the_time_of_writing": "На момент написания статьи",
+    "Reserve": "Резерв",
+    "Price": "Цена",
+    "Delegated": "Делегировано",
+    "Emission": "Эмиссия",
+    "Coin_creation_transaction": "Транзакция создания монеты:",
+    "The_link_to_the_transaction": "Ссылка на транзакцию",
+    "The_purpose_of_the_coins": "Назначение монеты"
 }
