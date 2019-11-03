@@ -27,10 +27,10 @@
     "Undefined": "Undefined",
     "Approximate_cost": "Approximate cost:",
     "Send": "Send",
-    "Not_sell": "",
-    "Sell": "",
-    "Attention_The_cost_of_crafting": "",
-    "Craft": "",
+    "Not_sell": "Not sell",
+    "Sell": "Sell",
+    "Attention_The_cost_of_crafting": "Attention! The cost of crafting",
+    "Craft": "Craft",
     "Number_of_hours_for_egg_maturation": "Number of hours for egg maturation (0 to 24)",
-    "Hatching_egg": ""
+    "Hatching_egg": "Hatching egg"
 }
