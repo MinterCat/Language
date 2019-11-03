@@ -1,11 +1,18 @@
-{
-  "Total number of cats" : "",
-  "Total number of cats2" : "",
-  "Total number of cats3" : "",
-  "Total number of cats4" : "",
-  "Total number of cats5" : "",
-  "Total number of cats6" : "",
-  "Total number of cats" : "",
-  "Total number of cats" : "",
-  "Total number of cats" : "",
-}
+[
+    {
+        "term": "Total_number_of_cats",
+        "definition": "\u0412\u0441\u0435\u0433\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u043e \u043a\u043e\u0442\u043e\u0432:",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "Play",
+        "definition": "",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }  
+]
