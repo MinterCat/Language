@@ -25,5 +25,6 @@
     "in_block" : "в блоке",
     "gender" : "Пол",
     "Undefined" : "Неопределенный",
-    "Approximate_cost" : "Примерная стоимость:"
+    "Approximate_cost" : "Примерная стоимость:",
+    "Send" : "Отправить"
 }
