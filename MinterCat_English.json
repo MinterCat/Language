@@ -66,5 +66,20 @@
     "Most_expensive": "Most expensive",
     "The_oldest": "The oldest",
     "on_breeds": "On breeds",
-    "Repeat_password": "Repeat password"
+    "Repeat_password": "Repeat password",
+    "official_coin_of_the_MinterCat_project": "",
+    "Coin": "",
+    "Characteristics_of_coin": "",
+    "Symbol": "",
+    "Initial_reserve": "",
+    "Initial_price": "",
+    "Initial_emission": "",
+    "At_the_time_of_writing": "",
+    "Reserve": "",
+    "Price": "",
+    "Delegated": "",
+    "Emission": "",
+    "Coin_creation_transaction": "",
+    "The_link_to_the_transaction": "",
+    "The_purpose_of_the_coins": ""
 }
