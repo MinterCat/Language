@@ -32,5 +32,14 @@
     "Attention_The_cost_of_crafting": "Внимание! Стоимость крафта",
     "Craft": "Крафтить",
     "Number_of_hours_for_egg_maturation": "Количество часов на созревание яйца (от 0 до 24)",
-    "Hatching_egg": "Вылупить"
+    "Hatching_egg": "Вылупить",
+    "The_user_with_such_a_nickname_is_not_found": "Пользователь с таким ником не найден!",
+    "Cat_sent": "Котик отправлен!",
+    "Cat_is_for_sale": "Котик выставлен на продажу!",
+    "Removed_the_cat_from_sale": "Убрали котика с продажи!",
+    "From_the_egg_hatched_a_kitty": "Из яйца вылупился котик!",
+    "There_are_not_enough_funds_on_your_balance": "На вашем балансе недостаточно средств!",
+    "Operation_is_not_possible": "Операция невозможна!",
+    "Cats": "Коты",
+    "Eggs": "Яйца"
 }
