@@ -26,5 +26,11 @@
     "gender": "gender",
     "Undefined": "Undefined",
     "Approximate_cost": "Approximate cost:",
-    "Send": "Send"
+    "Send": "Send",
+    "Not_sell": "",
+    "Sell": "",
+    "Attention_The_cost_of_crafting": "",
+    "Craft": "",
+    "Number_of_hours_for_egg_maturation": "Number of hours for egg maturation (0 to 24)",
+    "Hatching_egg": ""
 }
