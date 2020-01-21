@@ -7,8 +7,8 @@ PHP
 
 function Language ($lang)
 {
-	$url = 'https://raw.githubusercontent.com/MinterCat/Language/master/MinterCat_'.$lang.'.json';
-	$data = file_get_contents($url);
+$url = 'https://raw.githubusercontent.com/MinterCat/Language/master/MinterCat_'.$lang.'.json';
+$data = file_get_contents($url);
     $jsonCalled = json_decode($data);
     return $jsonCalled;
 }
